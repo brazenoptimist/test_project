@@ -1,6 +1,6 @@
 #include <iostream>
 #include "main.h"
 
-int sum(int a, int b, int c){
-    return a + b + c;
+int f2(int a, int b){
+    return a + b;
 }
